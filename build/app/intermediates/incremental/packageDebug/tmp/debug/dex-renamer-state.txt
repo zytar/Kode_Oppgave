@@ -1,0 +1,4 @@
+#Sat Sep 10 14:49:44 CEST 2022
+base.0=/Users/bjornarherland/StudioProjects/Kode_Oppgave/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

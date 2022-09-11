@@ -1,0 +1,72 @@
+{
+  "search": [
+    {
+      "id": "tt0073195",
+      "title": "Jaws",
+      "year": 1975,
+      "score": 86,
+      "type": "movie",
+      "imdbid": "tt0073195",
+      "tmdbid": 578,
+      "traktid": 457
+    },
+    {
+      "id": "tt0077766",
+      "title": "Jaws 2",
+      "year": 1978,
+      "score": 55,
+      "type": "movie",
+      "imdbid": "tt0077766",
+      "tmdbid": 579,
+      "traktid": 458
+    },
+    {
+      "id": "tt0085750",
+      "title": "Jaws 3-D",
+      "year": 1983,
+      "score": 31,
+      "type": "movie",
+      "imdbid": "tt0085750",
+      "tmdbid": 17692,
+      "traktid": 10833
+    },
+    {
+      "id": "tt0093300",
+      "title": "Jaws: The Revenge",
+      "year": 1987,
+      "score": 29,
+      "type": "movie",
+      "imdbid": "tt0093300",
+      "tmdbid": 580,
+      "traktid": 459
+    },
+    {
+      "id": "tt8305692",
+      "title": "Santa Jaws",
+      "year": 2018,
+      "score": 27,
+      "type": "movie",
+      "imdbid": "tt8305692",
+      "tmdbid": 542476,
+      "traktid": 393283
+    },
+    {
+      "id": "tt0112747",
+      "title": "Cruel Jaws",
+      "year": 1995,
+      "score": 27,
+      "type": "movie",
+      "imdbid": "tt0112747",
+      "tmdbid": 84060,
+      "traktid": 62984
+    },
+    {
+      "id": "tt0251821",
+      "title": "The Making of Jaws",
+      "year": 1995,
+      "score": 26,
+      "type": "movie",
+      "imdbid": "tt0251821"
+    }
+  ]
+}
